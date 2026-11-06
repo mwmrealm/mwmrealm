@@ -70,14 +70,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-``` java
-if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
-// - Vishwa Gaurav
-```
+
 
 <!--
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -85,10 +78,10 @@ if (codeWorking){
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mwmrealm/mwmrealm/output/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
 
 ### Thanks for Visiting my GitHub Profile!
 
 ---
-<p align="center">
-<img src="https://github.com/mwmrealm/mwmrealm/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
